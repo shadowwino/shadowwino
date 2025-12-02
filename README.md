@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**shadowwino/shadowwino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer obsessed with building clean, responsive and interactive web experiences.
+I love turning ideas into functional applications and experimenting with modern web technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- 💻 **Languages & Libraries:** JavaScript (ES6+), React
+- 🎨 **Styling:** Tailwind CSS
+
+### Build & Tooling
+- ⚡ **Build Tools & Bundlers:** Vite
+- 🧰 **Package Management:** npm, Yarn
+- 📝 **Linting & Formatting:** ESLint
+- 🔄 **Version Control:** Git
+
+### Learning
+- 🌱 **Currently Learning/Exploring:** TypeScript, Next.js, Server-side Rendering (SSR), Static Site Generation (SSG)
